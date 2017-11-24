@@ -1,0 +1,5 @@
+CONNECT_URI=mongodb://localhost:27017
+DB=tkgt
+COLLECTION=posts
+SERVICE_POST=8081
+API_KEY=AIzaSyChNtsQLPrtlYWAcC98UYw1vDmvjfDGmrw
